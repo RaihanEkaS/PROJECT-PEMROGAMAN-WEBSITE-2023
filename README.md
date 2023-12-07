@@ -76,7 +76,7 @@ Web app untuk mengelola surat masuk, keluar, serta disposisinya.
   - Mengatur nama penanggungjawab
 
 ## Database Schema / Skema Database
-<img src="[https://github.com/RaihanEkaS/PROJECT-PEMROGAMAN-WEBSITE-2023/blob/main/database_schema.png]" alt="database schema">
+<img src="[(https://github.com/RaihanEkaS/PROJECT-PEMROGAMAN-WEBSITE-2023/blob/main/database_schema.png)]" alt="database schema">
 
 ## Installation / Instalasi
 Direkomendasikan menggunakan php > 8.1.0. Pastikan repo ini telah diclone, kemudian buka CLI dan posisikan direktori aktif ke repo ini.
