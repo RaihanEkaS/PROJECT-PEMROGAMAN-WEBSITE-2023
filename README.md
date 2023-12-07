@@ -76,7 +76,7 @@ Web app untuk mengelola surat masuk, keluar, serta disposisinya.
   - Mengatur nama penanggungjawab
 
 ## Database Schema / Skema Database
-<img src="https://github.com/ikhsanyusuf/UAS_PemrogramanWebsite/blob/main/database_schema.png" alt="database schema">
+<img src="https://github.com/RaihanEkaS/UAS-PEMROGAMAN-WEBSITE-2023/blob/main/database_schema.png" alt="database schema">
 
 ## Installation / Instalasi
 Direkomendasikan menggunakan php > 8.1.0. Pastikan repo ini telah diclone, kemudian buka CLI dan posisikan direktori aktif ke repo ini.
@@ -156,6 +156,3 @@ Untuk menggantinya, buka file `config/app.php` kemudian ganti nilai pada `locale
 Untuk mengganti zona waktu silakan buka file `config/app.php`
 dan ganti nilai pada `timezone` sesuai dengan keinginan Anda.
 Silakan merujuk ke [dokumentasi php](https://www.php.net/manual/en/timezones.php) untuk nilai zona waktu yang bisa digunakan.
-
-## Other / Lainnya
-Proyek ini menggunakan admin template [Sneat](https://github.com/themeselection/sneat-html-admin-template-free)
